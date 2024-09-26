@@ -12,7 +12,7 @@ const ImageModal = ({ isOpen, onRequestClose, style, image }) => {
         className={css.modal}
         overlayClassName={css.overlay}
       >
-        <img src={image.url} alt={image.discription} width={800} height={540}/>
+        <img src={image.url} alt={image.discription} width={1000} height={540}/>
       </Modal>
     </div>
   );

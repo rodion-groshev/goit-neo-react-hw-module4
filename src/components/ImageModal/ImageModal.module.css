@@ -1,0 +1,9 @@
+.modal {
+  position: absolute;
+}
+
+.overlay {
+  position: fixed;
+  inset: 0px;
+  background-color: rgba(0, 0, 0, 0.6);
+}

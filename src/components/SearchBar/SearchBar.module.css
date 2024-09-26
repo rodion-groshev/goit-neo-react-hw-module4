@@ -1,0 +1,13 @@
+.searchBar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.bar {
+  margin-right: 15px;
+  padding: 13px 50px 13px 10px;
+  border: none;
+  border-radius: 6px;
+  color-scheme: whitesmoke;
+}

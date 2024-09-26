@@ -1,0 +1,9 @@
+ul {
+  list-style: none;
+}
+
+.imagesList {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+}
